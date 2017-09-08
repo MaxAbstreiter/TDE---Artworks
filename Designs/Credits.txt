@@ -1,0 +1,79 @@
+
+
+
+-Fonts
+Pixelsagas: Nyctographic
+Doug Miles: Black Chancery
+
+Textures:
+-Menu
+Gargargarrick: Steampunky
+
+-Background
+Juan 
+Mikael Gustafsson (Forest Basics)
+
+-
+
+-Sprites 
+Oray Studios (Johanna, Montgomery, Nirbus)
+Marco Klein (Mr.Spook, Crows, Bomb)
+JosipKladaric (PaperMoon) CCBY3.0
+
+
+####CC0:####
+
+OCAL
+Laura Palin 
+
+####CC-BY 3.0#### https://creativecommons.org/licenses/by/3.0/
+
+-Icons
+#sbed: Battery, Fireflake, Telefrag
+#Lorc: Bottle, Bomb, Gears, Cracked Glass, Crossed Bones, Pokecog, Gaze, Falling ovoid, Edge, Snowflake 2,Power-Lightning, ShieldMechanical arm, Shiny Apple, Augerbine, Crystals (modified), Drill, Frostfire, Sea Serpent, Cogsplosion, Sands of time, Grapes, Strong, Gavel, Hammer drop, surprised, Star Swirl, Cracked Shield, Poison Bottle, Tombstone, Gluttonous smile, Ghost, Sundial, Arrow, Stiletto, Uncertain, Top Hat, Drop, Small Fire, Moon, Claw Hammer, Spinning Sword, Arrowhead, Barbed Sun, Magic shield
+Punch Blast, elderberry, Double quaver, Back and forth, Run, Magic swirl, Medal, Snowman, Charm, Evil Moon, Mushroom cloud, bleeding heart
+#Delapouite: Log, Stone Pile, Rope Coil, Banana, Carrot, Orange, Dog Hole,crosshair, Biceps, Heart, Monkey wrench, Attached Shield, Speaker, Stars Stack, Chili Pepper, Katana, Book Cover, Brick Wall, Bo, Nested hexagons, Magic Trick
+#Felbrigg: Sideswipe, 
+#Faithtoken: Ore
+#John Redman: Fist
+#PriorBlue: Increasing Battery
+#Carl Olsen: Flame Icon
+#Priorblue: Battery (full to empty)
+#Splicer: Fau Symbol (colors inverted, cut edges, rotated) CC BY-SA 3.0
+#Skill: Fist Icon, 
+#DarkZaitzev: Catch Stick
+
+-Sprites:
+helpcomputer: Explosion (GPL 3.0 & 2.0)
+Julien: Butterfly (© 2005-2013 Julien Jorge)
+Davin Stenfors: Campfire Particles (CC 4.0 - http://creativecommons.org/licenses/by/4.0/)
+yinakoSGA: Basic Gems Icon Set (CC-BY 3.0)
+
+-Sounds:
+dobroide: Wasp
+jobro: Dramatic Piano
+Spooky Ambience: OllieOllie CC BY 3.0
+juskiddink: Wind through leaves (edited) CC BY 3.0
+JavierZumer: charging power (modified) CC BY 3.0
+CGEffex: Single clangs (cut) CC BY 3.0
+LittleRobotSoundFactory: Ambience_Cave, Ambience_Sinister_Electric_Cello_Loop_06 CC BY 3.0
+Mike Koenig: Spooky Drone (cut) CC3.0, Fire Sound 
+dobroide: Duck Quack (cut) Creative Commons
+
+-Symbols
+Vau: Splicer (modified steampunk biohazard, CC BY SA 3.0)
+Alp: Lorc (modified Sundial icon, CC BY 3.0)
+
+
+Character Design:
+Marco Klein - Mr.Spook, Crows
+Thir - Johanna
+Esther Funworld - Johanna, Annathasia, Marx, Luka, Shicho, Erika
+Mizuno - Marx, Erika, Charla, Ralf the Rabbit
+Reko - Annathasia, Wuselrat
+Dr.Karma - Erika, Jasmine
+
+
+Construct Design: 
+Juan Caruso
+Evil-santa (Base Idea for the Mole A Hole)

@@ -1,0 +1,11 @@
+
+
+Name: Scarecrow
+Power: 1/10
+
+Description:
+-The first construct Johanna creates, it's made out of wood, sticks, rope, a skull head, a straw hat and some mechanical parts INSIDE the skull head.
+-The mechanical parts allow it to shoot small thunder bolts and make its eyes glow red for a short moment.
+
+Size: 
+The scarecrow is 1,6 meters tall.

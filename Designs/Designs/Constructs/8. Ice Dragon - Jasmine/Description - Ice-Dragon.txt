@@ -1,0 +1,20 @@
+
+
+Name: Ice-Dragon
+Power: 10/10
+
+Description:
+-It's filled with cogwheels and other stuff to look "very complex" (see Head.jpg).
+-The body is made out of silver.
+-Has wings made out of glass (like the Fire-Fly).
+-If possible, add a small Watertank somewhere (around the chest area).
+-It spits icecold (-20°C) water, which turns into ice nearly instantly (possible due to a special amaount of air pressure inside).
+
+(Lore: It's designed to shoot Ice instead of Fire as the "Golem endboss" is immun to fire)
+
+Size: 
+The machine itself is 20 meters tall, able to mess with the roaming Golem (see Endboss.jpg).
+
+
+
+Camera: Would be nice if the camera is positioned on the ground (as in Johannas view), gazing upwards to the Dragon.

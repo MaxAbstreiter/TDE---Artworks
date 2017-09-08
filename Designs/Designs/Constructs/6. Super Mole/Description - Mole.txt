@@ -1,0 +1,20 @@
+
+
+Name: Super Mole
+Power: 8/10
+
+Description:
+-The main weapon should be a drill like in both included pictures.
+-We need hands like in Mole1.png in order to maintain balance and to grab smaller enemies.
+-It needs a seat/cockpit for the smart mole who controls the machine.
+-Some pipes for steam (Mole1.png)
+
+Size: 
+The machine itself is 2 meters tall, around 1 meter wide (not including the drill).
+
+
+
+To the small mole:
+-He wears a tiny cylinder as well as a monocle (nothing else)
+-His fur is dark brown.
+-Stands on two feet.

@@ -1,0 +1,6 @@
+
+
+Two Joycons.
+Each player selects his characters similar to Pokemon Stadium.
+
+Moves need have like a 2 second timing in order to have Block/Counter timing mixup.

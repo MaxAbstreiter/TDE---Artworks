@@ -1,0 +1,16 @@
+
+
+Name: Wolpertinger
+Power: 2/10
+
+Description:
+-A mythical animal from Johannas homeland
+-It can't fly, the wings are for balance reasons (true for both the animal and for the construct)
+-Instead of legs, it uses wheels to move forward. (compareable to wheel1.jpg, BUT the contruct itself is way bigger in comparison to the wheels).
+
+-For attacking, it uses its horns (which are golden for the construct).
+-It can also explode as it's filled with black powder.
+
+
+Size: 
+The Wolpertinger is 0,4 meters tall.
