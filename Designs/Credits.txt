@@ -31,7 +31,7 @@ Laura Palin
 -Icons
 #sbed: Battery, Fireflake, Telefrag
 #Lorc: Bottle, Bomb, Gears, Cracked Glass, Crossed Bones, Pokecog, Gaze, Falling ovoid, Edge, Snowflake 2,Power-Lightning, ShieldMechanical arm, Shiny Apple, Augerbine, Crystals (modified), Drill, Frostfire, Sea Serpent, Cogsplosion, Sands of time, Grapes, Strong, Gavel, Hammer drop, surprised, Star Swirl, Cracked Shield, Poison Bottle, Tombstone, Gluttonous smile, Ghost, Sundial, Arrow, Stiletto, Uncertain, Top Hat, Drop, Small Fire, Moon, Claw Hammer, Spinning Sword, Arrowhead, Barbed Sun, Magic shield
-Punch Blast, elderberry, Double quaver, Back and forth, Run, Magic swirl, Medal, Snowman, Charm, Evil Moon, Mushroom cloud, bleeding heart, Dripping blade, Blade Fall
+Punch Blast, elderberry, Double quaver, Back and forth, Run, Magic swirl, Medal, Snowman, Charm, Evil Moon, Mushroom cloud, bleeding heart, Dripping blade, Blade Fall, Swap Bag
 #Delapouite: Log, Stone Pile, Rope Coil, Banana, Carrot, Orange, Dog Hole,crosshair, Biceps, Heart, Monkey wrench, Attached Shield, Speaker, Stars Stack, Chili Pepper, Katana, Book Cover, Brick Wall, Bo, Nested hexagons, Magic Trick, Heart Wings
 #Felbrigg: Sideswipe, 
 #Faithtoken: Ore
