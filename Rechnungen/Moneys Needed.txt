@@ -1,6 +1,4 @@
 
---Derzeit--
-€5337
 
 -Artworks-
 Johanna - 88€ (2016)
@@ -58,6 +56,7 @@ Bernhard(1) - 130€ (2017)
 SirHennryk(1) - 120€ (2017)
 Konrad(1) - 89€ (2017)
 Annathasia(1) - 175€ (2017)
+Johanna jump - 50€ (2018)
 
 Logo - 12€ (2016)
 
@@ -71,14 +70,18 @@ Battling the Past + Inner Demon: 210€ (2016)
 The Dance never ends: 36€ (2016)
 Hooked on a bad feeling: 41€ (2017)
 Paradoxal Sleep: 148€ (2018)
-True Love Survivor: 110€ (2018)
+False Survivor: 110€ (2018)
+Hypnagogia: 179€ (2018)
+Duskmare: 107€
 
 Soundeffects: 53€ (2016)
 
-Scripts:
+Scripts & Plugins:
 Thunderbolts €10 (2016)
 Ferr2D Terrain Tool 32€ (2016)
 Special Effects 3€ (2017)
+DarkAce Audio: 43€ (2018)
+
 
 --Nicht Gamespezifisch--
 500 Visitenkarten - 29,98€ (2017)
