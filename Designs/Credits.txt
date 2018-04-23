@@ -8,6 +8,7 @@ Doug Miles: Black Chancery
 Textures:
 -Menu
 Gargargarrick: Steampunky
+Marco Klein: Steel
 
 -Background
 Juan 
@@ -22,6 +23,9 @@ Cpaws Music (Duskmare, Hypnagogia, False Survivor, Paradoxial Sleep)
 Oray Studios
 Marco Klein
 JosipKladaric (PaperMoon) CCBY3.0
+
+-Artworks & Character Faceset
+Esther-shen
 
 
 ####CC0:####
@@ -55,6 +59,7 @@ Julien: Butterfly (© 2005-2013 Julien Jorge)
 Davin Stenfors: Campfire Particles (CC 4.0 - http://creativecommons.org/licenses/by/4.0/)
 yinakoSGA: Basic Gems Icon Set (CC-BY 3.0)
 
+
 -Sounds:
 dobroide: Wasp
 jobro: Dramatic Piano
@@ -72,15 +77,14 @@ Vau: Splicer (modified steampunk biohazard, CC BY SA 3.0)
 Alp: Lorc (modified Sundial icon, CC BY 3.0)
 
 
-Character Design:
-Marco Klein - Mr.Spook, Crows
+Character Concept:
+Marco Klein - Mr.Spook
 Thir - Johanna
-Esther Funworld - Johanna, Annathasia, Marx, Luka, Shicho, Erika
-Mizuno - Marx, Erika, Charla, Ralf the Rabbit
+Esther Funworld - Luka, Shicho, Coppelius
+Mizuno - Marx, Erika, Charla, Ralf the Rabbit, Nikola, Nikita, Bonjavelin
 Reko - Annathasia, Wuselrat
-Dr.Karma - Erika, Jasmine
-
+Dr.Karma - Erika (earlier versions), Jasmine
+Anni - Alentura, Nimarus
 
 Construct Design: 
 Juan Caruso
-Evil-santa (Base Idea for the Mole A Hole)
