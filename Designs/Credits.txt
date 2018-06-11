@@ -10,9 +10,10 @@ Textures:
 Gargargarrick: Steampunky
 Marco Klein: Steel
 
--Background
+-Background Art
 Juan 
-Mikael Gustafsson (Forest Basics)
+Mikael Gustafsson
+Tom van de Merbel
 
 -Music
 Sonorode
