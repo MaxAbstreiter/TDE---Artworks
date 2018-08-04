@@ -1,5 +1,7 @@
 
 
+-UI
+Tom van de Merbel
 
 -Fonts
 Pixelsagas: Nyctographic
@@ -13,12 +15,12 @@ Marco Klein: Steel
 -Background Art
 Juan 
 Mikael Gustafsson
-Tom van de Merbel
 
 -Music
 Sonorode
 Bartosch McCarthy
 Cpaws Music (Duskmare, Hypnagogia, False Survivor, Paradoxial Sleep)
+Diburmusic (Fever Dream, Tavern, High Score Chicken)
 
 -Sprites 
 Oray Studios
@@ -53,6 +55,7 @@ Punch Blast, elderberry, Double quaver, Back and forth, Run, Magic swirl, Medal,
 #Skoll: Fangs
 #Zecromancer: Heart plus
 #Lord Berandas: Artificial intelligence
+#Skoll: Talk, 
 
 -Sprites:
 helpcomputer: Explosion (GPL 3.0 & 2.0)
